@@ -1,0 +1,95 @@
+{
+  "posts": [
+    {
+      "title": "author",
+      "body": "created",
+      "author": "dddd",
+      "id": 7
+    },
+    {
+      "title": "author",
+      "body": "created",
+      "author": "dddd",
+      "id": 8
+    },
+    {
+      "title": "with",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor iure tempore nesciunt ab doloremque? Nisi illo iure, ab, perferendis maxime quae eius quia illum porro, in laborum similique sunt accusamus?",
+      "author": "dddd",
+      "id": 9
+    },
+    {
+      "title": "create",
+      "body": "post",
+      "author": "user",
+      "id": 10
+    }
+  ],
+  "users": [
+    {
+      "login": "sad",
+      "password": "sadsad",
+      "id": 1
+    },
+    {
+      "login": "dddd",
+      "password": "ddddd",
+      "id": 2
+    },
+    {
+      "login": "asdasdasd",
+      "password": "asdasdasd",
+      "id": 3
+    },
+    {
+      "login": "",
+      "password": "ddd",
+      "id": 5
+    },
+    {
+      "login": "",
+      "password": "dd",
+      "id": 6
+    },
+    {
+      "login": "",
+      "password": "dd",
+      "id": 7
+    },
+    {
+      "login": "",
+      "password": "dd",
+      "id": 8
+    },
+    {
+      "login": "dddd",
+      "password": "dddd",
+      "id": 9
+    },
+    {
+      "login": "dddd",
+      "password": "dddd",
+      "id": 10
+    },
+    {
+      "login": "dddd",
+      "password": "dddd",
+      "id": 11
+    },
+    {
+      "login": "myamyamya",
+      "password": "murmurmur",
+      "id": 12
+    },
+    {
+      "login": "usertest",
+      "password": "testuser",
+      "id": 13
+    },
+    {
+      "login": "user",
+      "password": "creator",
+      "id": 14
+    }
+  ]
+}

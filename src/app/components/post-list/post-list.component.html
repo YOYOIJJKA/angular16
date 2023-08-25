@@ -1,0 +1,14 @@
+<!-- <div class="form-control ">
+    <input type="text" class="form-control" id="ID" placeholder="ID" formControlName="ID">
+    <button class="btn btn-primary mt-4 mb-2">Go to post by ID</button>
+</div> -->
+<ol class="list-group list-group-numbered" >
+    <li *ngFor="let post of posts" class="list-group-item d-flex justify-content-between align-items-start" >
+      <div class="ms-2 me-auto">
+        <div class="fw-bold">{{ post.title }}</div>
+        {{ post.body }}
+        <div class="ms-2 me-auto">Author: {{post.author}}</div>
+      </div>
+      <div class="badge bg-primary rounded-pill noselect" (click)="goToPost(post.id)">Go to post №{{post.id}}</div> 
+    </li>
+</ol>
